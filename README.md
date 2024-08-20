@@ -18,4 +18,4 @@ General features for all roles:
 > This is the final project for the "Mobile Programming" course. 
 
 ## Technologies
-Java, Volley, Model-View-Presenter(architecture)
+Java, Retrofit, Model-View-Presenter(architecture)
